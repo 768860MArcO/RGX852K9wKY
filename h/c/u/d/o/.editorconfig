@@ -14,5 +14,4 @@ indent_size = 4
 
 ; YAML
 [*.yaml]
-indent_style = space
 indent_size = 2
