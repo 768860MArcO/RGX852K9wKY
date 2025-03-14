@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Copyright (C) 2024, Zato Source s.r.o. https://zato.io
 
