@@ -12,7 +12,6 @@
     "prettier"
   ],
   "overrides": [],
-  "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
