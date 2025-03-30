@@ -231,7 +231,6 @@ If you have experiences in [Docusaurus 2](https://docusaurus.io), you might find
 
 Therefore, to update the documentation, rather than contributing to the [website repo](https://github.com/fanux/sealos-site), you should contribute to this repo directly, unless you want to update the home page or custom pages like the [company page](https://www.sealos.io/company).
 
-For a complete list of the docs synchronization mappings, see [sync_docs.yml](https://github.com/labring/sealos/tree/main/.github/sync_docs.yml).
 
 #### Formatting
 
