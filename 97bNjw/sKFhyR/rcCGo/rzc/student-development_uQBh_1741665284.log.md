@@ -25,7 +25,6 @@ accept your pull requests.
 1. The repo owner will respond to your issue promptly.
 1. If your proposed change is accepted, and you haven't already done so, sign a
    Contributor License Agreement (see details above).
-1. Fork the desired repo, develop and test your code changes.
 1. Ensure that your code adheres to the existing style in the sample to which
    you are contributing. Refer to the
    [Google Cloud Platform Samples Style Guide]
