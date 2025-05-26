@@ -56,7 +56,6 @@ insert_final_newline = false
 line_wrap_mode = soft wrap
 
 # HTML (HyperText Markup Language) document
-[*.htm *.html *.mhtm *.mhtml *.xhtm *.xhtml]
 indent_style = space
 indent_size = 2
 end_of_line = lf
